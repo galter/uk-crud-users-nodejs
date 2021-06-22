@@ -58,4 +58,4 @@ Feel free to join us on the API
 
 ## Authors
 
-* **Cicero Oliveira** -  [CiceroOliveira](https://github.com/galter)
+* **Cicero Oliveira** -  [Galter](https://github.com/galter)
